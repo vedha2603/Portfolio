@@ -732,11 +732,11 @@ body:not(.user-is-tabbing) a:focus {
     
 }
 @media(max-width: 500px) {
-    .about-section {
+    .about-section1 {
         padding: 1rem;
     }
 
-    .about-section h2 {
+    .about-section1 h2 {
         
         margin: 0;
         text-align: left;
