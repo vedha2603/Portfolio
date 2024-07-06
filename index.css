@@ -674,6 +674,13 @@ body:not(.user-is-tabbing) a:focus {
 
 
 }
+.about-section1 h2 {
+    font-size: 5em;
+    margin-left:100px;
+    text-align: left;
+
+
+}
 
 .underline {
     width: 10px;
