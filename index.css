@@ -737,7 +737,7 @@ body:not(.user-is-tabbing) a:focus {
     }
 
     .about-section h1 {
-        
+        font-size:5px;
         margin: 0;
         text-align: left;
     }
