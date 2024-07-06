@@ -552,9 +552,9 @@ body:not(.user-is-tabbing) a:focus {
     flex: 1;
 }
 .about__photo {
-    border-radius: 75%;
-    width: 180%;
-    max-width: 400px;
+    border-radius: 65%;
+    width: 175%;
+    max-width: 350px;
 }
 @media(min-width: 901px) {
     .about__text {
