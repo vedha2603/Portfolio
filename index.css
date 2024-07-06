@@ -731,3 +731,10 @@ body:not(.user-is-tabbing) a:focus {
     margin: 10px 0;
     
 }
+@media(max-width:500px)
+{
+    .about_section{
+        margin-left:10px;
+        text-align:10px;
+    }
+}
