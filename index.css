@@ -737,17 +737,18 @@ body:not(.user-is-tabbing) a:focus {
     }
 
     .about-section h1 {
-        font-size: 2.5rem;
+       margin-left: 170px;
         margin: 0;
-        text-align: center;
+        text-align: left;
     }
 
     .underline {
-        width: 50px;
-        height: 1px;
-        background-color: red;
-        margin: 10px auto;
-        border: none;
+    width: 10px;
+    height: 1px;
+    background-color: red;
+    margin-left: 170px;
+    border: none;
+    margin-top: 10px;
     }
 }
 
