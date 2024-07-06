@@ -737,12 +737,20 @@ body:not(.user-is-tabbing) a:focus {
     }
 
     .about-section h1 {
-       
+        
         margin: 0;
         text-align: left;
     }
 
+    .underline {
+        width: 50px;
+        height: 1px;
+        background-color: red;
+        margin: 10px auto;
+        border: none;
+    }
 }
+
 
 
 
