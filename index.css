@@ -667,7 +667,7 @@ body:not(.user-is-tabbing) a:focus {
     
 }
 
-.about-section h1 {
+.about-section h2 {
     font-size: 3em;
     margin-left:170px;
     text-align: left;
@@ -736,8 +736,8 @@ body:not(.user-is-tabbing) a:focus {
         padding: 1rem;
     }
 
-    .about-section h1 {
-        font-size:5px;
+    .about-section h2 {
+        
         margin: 0;
         text-align: left;
     }
@@ -747,6 +747,8 @@ body:not(.user-is-tabbing) a:focus {
         height: 2px;
         background-color: red;
         border: none;
+        text-align: left;
+        align-items:left;
     }
 }
 
