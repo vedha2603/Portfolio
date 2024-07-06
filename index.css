@@ -743,10 +743,9 @@ body:not(.user-is-tabbing) a:focus {
     }
 
     .underline {
-        width: 50px;
-        height: 1px;
+        width: 200px;
+        height: 2px;
         background-color: red;
-        margin: 10px auto;
         border: none;
     }
 }
