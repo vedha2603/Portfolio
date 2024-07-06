@@ -733,7 +733,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 @media(max-width:500px)
 {
-    .about_section{
+    .about-section{
         color:blue;
         text-align:left;
     }
