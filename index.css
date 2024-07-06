@@ -667,7 +667,7 @@ body:not(.user-is-tabbing) a:focus {
     
 }
 
-.about-section h2 {
+.about-section h1 {
     font-size: 3em;
     margin-left:170px;
     text-align: left;
